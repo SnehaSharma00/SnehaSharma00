@@ -1,7 +1,7 @@
 
 # Hi there, I'm Sneha Sharma! 👋
 <p align="center">
-  <img src="https://github.com/Yashmalik2004/Yashmalik2004/blob/main/YM-LOGO.webp" alt="My Image" width="600" height="300">
+  <img src="https://github.com/SnehaSharma00/SnehaSharma00/imgs/blob/main/SS-LOGO.webp" alt="My Image" width="600" height="300">
 </p>
 
 
